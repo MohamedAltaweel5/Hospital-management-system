@@ -1,0 +1,32 @@
+body
+{
+    font-size   : large;
+    font-family : Tahoma, Verdana, Segoe, sans-serif; 
+}
+
+
+
+.navbar-default .navbar-nav > li > a
+{
+    color      : black;
+    text-align : center;
+    font-weight: bold;
+    
+}
+
+
+.login, .register
+{
+    margin-top : 50px;
+    
+}
+
+
+.login h2, .register h2
+{
+    font-weight   : bold;
+    text-align    : left;
+    
+    margin-bottom : 40px;
+}
+

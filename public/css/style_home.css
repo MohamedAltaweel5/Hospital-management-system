@@ -1,0 +1,102 @@
+
+body
+{
+    font-size   : large;
+    font-family : Tahoma, Verdana, Segoe, sans-serif;
+    
+}
+
+
+.container
+{
+    margin-top : 20px;
+}
+
+
+.panel-title
+{
+    font-weight : bold;
+    font-size   : 20px;
+}
+
+
+.panel-body
+{
+    
+    min-height  : 1000px;
+    padding     : 5px;
+    padding-top : 0;
+}
+
+
+.userwelcome
+{
+    float          : left;
+    color          : darkblue;
+    text-transform : capitalize;
+    margin-bottom  : 20px;
+    margin-top     : 10px;
+    
+}
+
+
+.userwelcome h3
+{
+    font-weight : bold;
+    
+}
+
+
+.userwelcome a
+{
+    color       : firebrick;
+    margin-left : 20px;
+    font-weight : bold;
+    
+}
+
+
+.userwelcome a:hover
+{
+    text-decoration : none;
+    font-size       : 25px;
+    color           : red;
+}
+
+
+.img-rounded
+{
+    width       : 140px;
+    height      : 140px;
+    margin-top  : 0;
+    margin-left : 160px;
+    
+}
+
+
+.file-pp
+{
+    margin-left : 100px;
+}
+
+
+.reserve
+{
+    display      : inline;
+    margin-right : 50px;
+}
+
+
+.reschdule
+{
+    display     : inline;
+    margin-left : 50px;
+}
+
+
+.reset .btn
+{
+    padding-right : 50px;
+    padding-left  : 50px;
+    
+}

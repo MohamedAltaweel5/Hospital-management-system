@@ -1,0 +1,29 @@
+
+body
+{
+    font-size   : large;
+    font-family : Tahoma, Verdana, Segoe, sans-serif;
+    
+}
+
+
+.container
+{
+    margin-top : 20px;
+}
+
+
+.panel-title
+{
+    font-weight : bold;
+    font-size   : 20px;
+}
+
+
+.panel-body
+{
+    color      : darkred;
+    min-height : 600px;
+}
+
+
